@@ -2,7 +2,7 @@
 
 I'm begginer frontend developer
 
-### Languages and tools
+# 🔧 Technologies & Tools
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -71,4 +71,8 @@ I'm begginer frontend developer
   </tr>
 </table>
 
+# 📈 Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asenka0301&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asenka0301&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
