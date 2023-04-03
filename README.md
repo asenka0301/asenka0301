@@ -2,6 +2,9 @@
 
 I'm begginer frontend developer
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https:#)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AV_Simonova)
+
 # 🔧 Technologies & Tools
 <table>
   <tr>
@@ -73,6 +76,6 @@ I'm begginer frontend developer
 
 # 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asenka0301&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asenka0301&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asenka0301&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
