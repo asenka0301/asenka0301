@@ -24,4 +24,4 @@ I'm begginer frontend developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asenka0301&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/asenka0301)
+[![codewars](https://www.codewars.com/users/asenka0301/badges/large)](https://www.codewars.com/users/asenka0301)
